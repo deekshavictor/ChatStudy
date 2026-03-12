@@ -139,6 +139,8 @@ while True:
 client.close()
 ```
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 134023" src="https://github.com/user-attachments/assets/728db2bd-66f3-4489-8713-30efd6736bb3" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 134038" src="https://github.com/user-attachments/assets/358f6c71-b6e9-472f-a198-17092f9aaf5b" />
 
 
 ## Result:
